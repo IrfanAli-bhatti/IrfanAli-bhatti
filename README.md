@@ -39,3 +39,5 @@ Python (Pandas, NumPy, Matplotlib) · SQL · SPSS · Power BI · Excel · QGIS �
 
 ## 📫 Contact
 irfanalibhatti192@gmail.com
+
+LinkedIn: [linkedin.com/in/irfan-ali-bhatti](https://www.linkedin.com/in/irfan-ali-bhatti/)
